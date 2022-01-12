@@ -28,3 +28,47 @@ nav ul li{
 .full {
     margin-left: 1000px;
 }
+.join {
+    display: inline-block;
+    font-size: 16px;
+    color: #fff;
+    padding: 0 30px;
+    background-color: #1abc9c;
+    transition: all; /*.3s cubic-bezier(0.22, 0.61, 0.36, 1);*/
+    border-style:ridge ;
+    border-radius: 20px;
+    width: 190px;
+    height: 50px;
+    text-align: center;
+    
+}
+.join {
+    color: white;
+}
+.page2 {
+    background-color: gray;
+}
+.be {
+    color: orangered;
+}
+.bo {
+    color: #523ee8;
+}
+h1 {
+    color: #523ee8;
+}
+.let {
+    color: rgb(255, 143, 0)
+}
+h2 {
+    text-align: center;
+}
+.page3{
+   align-items: center;
+   flex: 1;
+text-align: right;
+position: relative;    
+display: flex;
+    align-items: center;
+   
+}

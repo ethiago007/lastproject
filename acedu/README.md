@@ -10,3 +10,9 @@
                 <a href="#">
                     <h4 style="color: orangered;">Free Coding Workshop +</h4>
                 </a>
+                       <div class="iconbox-21">
+                    <img src="img/designStudio2-icon01.png" alt="icon1">
+                    <br> <h6 class="title"><strong>Introduction to Programming</strong></h6>
+                    <p>3 weeks</p>
+                    <p> <a href="#">VIEW MORE +</a></p>
+                </div>
