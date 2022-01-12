@@ -15,7 +15,7 @@ The site contains information about ACEDU website. How it really looks like. The
 2. It was hard to fit the second background image
 3. It was hard to spread out page3
 ## WEBPAGE LINK
-https://ethiago007.github.io/
+https://ethiago007.github.io/acedu.camp
 ## CONTACT INFORMATION
 * 09064252791
 * mohammedkamaldeen204@gmail.com
