@@ -1,0 +1,30 @@
+.navbar{
+    background-color: orange;
+    width: 1370px;
+    margin-left: 0px;
+    display: flex;
+    align-items: center;
+
+    
+}
+nav{
+flex: 1;
+text-align: right;
+position: relative;    
+
+}
+nav ul li{
+    list-style: none;
+    margin-right: 30px;
+    display: inline-block;
+    position: relative;
+}
+.page1{
+    background-image: url(designStudio2-banner-img.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: orange;
+}
+.full {
+    margin-left: 1000px;
+}
