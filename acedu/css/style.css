@@ -46,7 +46,10 @@ nav ul li{
     color: white;
 }
 .page2 {
-    background-color: gray;
+    background-color: white;
+    background-image: url(download.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
 }
 .be {
     color: orangered;
