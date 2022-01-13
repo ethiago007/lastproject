@@ -47,3 +47,44 @@ nav ul li{
 .join {
     color: white;
 }
+.page2 {
+    background-color: skyblue;
+   background-image: url(istockphoto-879788228-170667a.png);
+  
+    background-repeat: no-repeat;
+   
+}
+.be {
+    color: orangered;
+}
+.bo {
+    color: #523ee8;
+}
+h1 {
+    color: #523ee8;
+}
+.let {
+    color: rgb(255, 143, 0)
+}
+h2 {
+    text-align: center;
+}
+.contedit-box{
+    text-align: center;
+    }
+    h5{
+        align-items: center;
+    }
+    h6 {
+        align-items: center;
+    }
+    p {
+        align-items: center;
+    }
+    .toy{
+        background-color: orange;
+    }
+    u {
+        color: orangered;
+    }
+    
