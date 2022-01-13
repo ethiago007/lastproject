@@ -14,6 +14,7 @@ The site contains information about ACEDU website. How it really looks like. The
 1. The navbar was hard to achieve
 2. It was hard to fit the second background image
 3. It was hard to spread out page3
+4. To create is for some reason annoyingly stressful
 ## WEBPAGE LINK
 https://ethiago007.github.io/adroitsoft
 ## CONTACT INFORMATION
