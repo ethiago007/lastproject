@@ -19,3 +19,31 @@ nav ul li{
     display: inline-block;
     position: relative;
 }
+.page1{
+    background-image: url(designStudio2-banner-img.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: orange;
+}
+.full {
+    margin-left: 1000px;
+}
+.join {
+    display: inline-block;
+    font-size: 16px;
+    color: #fff;
+    padding: 0 30px;
+    background-color: #1abc9c;
+    transition: all; /*.3s cubic-bezier(0.22, 0.61, 0.36, 1);*/
+    border-style:ridge ;
+    border-radius: 20px;
+    width: 190px;
+    height: 50px;
+    text-align: center;
+    border: none;
+    padding-top: 10px;
+    
+}
+.join {
+    color: white;
+}
