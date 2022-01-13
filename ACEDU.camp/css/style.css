@@ -1,0 +1,21 @@
+.navbar{
+    background-color: orange;
+    width: 1370px;
+    margin-left: 0px;
+    display: flex;
+    align-items: center;
+
+    
+}
+nav{
+flex: 1;
+text-align: right;
+position: relative;    
+
+}
+nav ul li{
+    list-style: none;
+    margin-right: 30px;
+    display: inline-block;
+    position: relative;
+}
