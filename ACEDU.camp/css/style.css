@@ -69,3 +69,22 @@ h1 {
 h2 {
     text-align: center;
 }
+.contedit-box{
+    text-align: center;
+    }
+    h5{
+        align-items: center;
+    }
+    h6 {
+        align-items: center;
+    }
+    p {
+        align-items: center;
+    }
+    .toy{
+        background-color: orange;
+    }
+    u {
+        color: orangered;
+    }
+    
